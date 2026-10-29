@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文精读与证据评估"
+  short_description: "通过原图、公式和代码读懂论文，核验实验局限并评估项目应用条件"
+  default_prompt: "使用 $kelip-paper-reading 解读这篇论文，核对关键实验、局限和项目应用条件。"

@@ -1,0 +1,17 @@
+# 个人画像：每个人自己写，不进仓库（模板见 profile.example.md）
+profile.md
+
+__pycache__/
+*.pyc
+.DS_Store
+
+# 在仓库目录里试跑 fetch_paper.py 时默认下到这里
+papers/
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+reading-state.json
+精读笔记.md
+.env
+.env.*
