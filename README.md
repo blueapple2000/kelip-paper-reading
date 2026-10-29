@@ -1,4 +1,4 @@
-# kelip-paper-reading · v0.2.0
+# kelip-paper-reading-plus · v0.2.0
 
 [English](README.en.md) · [版本记录](CHANGELOG.md)
 
